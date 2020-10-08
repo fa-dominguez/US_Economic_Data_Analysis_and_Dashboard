@@ -9,6 +9,6 @@ The project is comprised of four questions
 3. Display a dataframe where US Unemployment was greater than 8.5%
 4. Use the function make_dashboard to make a dashboard
 
-In this repository you'll find the final dashboard and the Jupyter notebook containing the data analysis.
+In this repository you'll find the final dashboard in image format and the Jupyter notebook containing the data analysis.
 
 **Tool used:** Pandas
